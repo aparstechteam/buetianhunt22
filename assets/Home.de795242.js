@@ -1,8 +1,0 @@
-import{r as i,o,c as a,a as e,b as c,w as l,u as s,n as _,t as u,d,e as m,f as r}from"./index.56c08864.js";const x={class:"container grid place-items-center h-screen mx-auto text-center"},h={class:"max-w-md shadow rounded-2xl mx-auto pt-3"},p=e("h1",{class:"text-2xl"},"Potential buetian hunt",-1),f=e("h3",null,"22 Batch",-1),b=e("div",{class:"px-6 py-4"},[e("div",{class:"font-bold text-xl mb-2"}," Exam Rules and Regulations "),r(),e("br"),e("p",null,"Please be polite and careful with the following information. "),e("h2",{class:"text-red-500 font-semibold text-lg"}," Demo Exam Ongoing "),e("pre",null,`
-Physics 50
-Chemistry 50
-Math 50
-
-Per question mark 10
-Negative mark 2.5
-                    `)],-1),g={key:0,class:"py-5"},k=e("h2",{class:"text-xl font-semibold"},"You Scored",-1),y={key:0,class:"text-green-600 font-semibold text-lg"},v={key:1,class:"text-red-600 font-semibold text-lg"},w={class:"flex justify-center pb-3 gap-3"},N=r("Go to Exam"),B=r("Leaderboard"),V={__name:"Home",setup(C){let t=JSON.parse(localStorage.getItem("buethunt22exam"))||null;return(S,E)=>{const n=i("router-link");return o(),a("div",null,[e("div",x,[e("div",h,[c(n,{to:"/",as:"div",class:"text-center uppercase"},{default:l(()=>[p,f]),_:1}),b,s(t)?(o(),a("div",g,[k,e("h1",{class:_(["text-5xl font-bold",{"text-red-500":s(t).score<0,"text-green-600":s(t).score>0}])},u(s(t).score),3),s(t).score>0?(o(),a("p",y," You are selected for enrollment. ")):(o(),a("p",v," Sorry! You are not selected for enrollment. "))])):d("",!0),e("div",w,[s(t)?d("",!0):(o(),m(n,{key:0,to:"/exam",class:"btn"},{default:l(()=>[N]),_:1})),c(n,{to:"/ranking",class:"btn"},{default:l(()=>[B]),_:1})])])])])}}};export{V as default};
