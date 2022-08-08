@@ -1,4 +1,4 @@
-import{r as d,o as e,c as s,a as t,b as n,w as l,u as r,d as c,e as i}from"./index.fbe4250f.js";const u={class:"container py-10 mx-auto text-center"},_={class:"max-w-md shadow rounded-2xl mx-auto pt-3"},m=t("h1",{class:"text-2xl"},"Potential buetian hunt",-1),x=t("h3",null,"22 Batch",-1),h=t("div",{class:"px-3"},[t("div",{class:"font-bold text-xl mb-2"}," Exam Rules and Regulations "),i(),t("br"),t("p",null,"Exam instructions will be updated soon."),t("h2",{class:"text-red-500 font-semibold text-lg"}," Demo Exam Ongoing "),t("pre",null,`
+import{r as d,o as e,c as s,a as t,b as n,w as l,u as r,d as c,e as i}from"./index.19a74e6c.js";const u={class:"container py-10 mx-auto text-center"},_={class:"max-w-md shadow rounded-2xl mx-auto pt-3"},m=t("h1",{class:"text-2xl"},"Potential buetian hunt",-1),x=t("h3",null,"22 Batch",-1),h=t("div",{class:"px-3"},[t("div",{class:"font-bold text-xl mb-2"}," Exam Rules and Regulations "),i(),t("br"),t("p",null,"Exam instructions will be updated soon."),t("h2",{class:"text-red-500 font-semibold text-lg"}," Demo Exam Ongoing "),t("pre",null,`
 Physics 10
 Chemistry 10
 Math 10
