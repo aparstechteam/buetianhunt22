@@ -1,4 +1,4 @@
-import{r as i,o as e,c as s,a as t,b as n,w as r,u as c,d as l,e as d}from"./index.5ceeae1a.js";const u={class:"container py-10 mx-auto text-center"},_={class:"max-w-md shadow rounded-2xl mx-auto pt-3"},m=t("h1",{class:"text-2xl"},"Potential buetian hunt",-1),h=t("h3",null,"22 Batch",-1),x=t("div",{class:"px-3"},[t("br"),t("h2",{class:"text-red-500 font-semibold text-lg"}," Marks Distribution "),t("pre",null,`
+import{r as i,o as e,c as s,a as t,b as n,w as r,u as c,d as l,e as d}from"./index.cebf6a66.js";const u={class:"container py-10 mx-auto text-center"},_={class:"max-w-md shadow rounded-2xl mx-auto pt-3"},m=t("h1",{class:"text-2xl"},"Potential buetian hunt",-1),h=t("h3",null,"22 Batch",-1),x=t("div",{class:"px-3"},[t("br"),t("h2",{class:"text-red-500 font-semibold text-lg"}," Marks Distribution "),t("pre",null,`
 Physics 10
 Chemistry 10
 Math 10
